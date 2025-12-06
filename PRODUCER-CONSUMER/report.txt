@@ -1,0 +1,230 @@
+p = 2, c = 2
+
+Consumer 0 local total: 254069.02
+Consumer 1 local total: 245920.28
+
+=== Global Statistics ===
+Aggregate total: 499989.31
+Month totals:
+  Month 01 : 38662.12
+  Month 02 : 49785.92
+  Month 03 : 41419.52
+  Month 04 : 40493.11
+  Month 05 : 47274.95
+  Month 06 : 44992.12
+  Month 07 : 48407.31
+  Month 08 : 37704.32
+  Month 09 : 38662.63
+  Month 10 : 40962.98
+  Month 11 : 39759.73
+  Month 12 : 31864.62
+Total simulation time: 11.274 seconds
+
+p = 2, c = 5
+
+Consumer 4 local total: 94565.92
+Consumer 3 local total: 100657.57
+Consumer 2 local total: 108476.17
+Consumer 0 local total: 103387.55
+Consumer 1 local total: 102651.26
+
+=== Global Statistics ===
+Aggregate total: 509738.50
+Month totals:
+  Month 01 : 45243.04
+  Month 02 : 47718.83
+  Month 03 : 43376.76
+  Month 04 : 48464.73
+  Month 05 : 31838.89
+  Month 06 : 33863.13
+  Month 07 : 44956.81
+  Month 08 : 48383.53
+  Month 09 : 43806.88
+  Month 10 : 40093.70
+  Month 11 : 43726.78
+  Month 12 : 38265.39
+Total simulation time: 11.446 seconds
+
+p = 2, c = 10
+
+Consumer 0 local total: 45424.32
+Consumer 8 local total: 47392.00
+Consumer 9 local total: 49841.16
+Consumer 1 local total: 47736.53
+Consumer 2 local total: 50193.54
+Consumer 3 local total: 52537.59
+Consumer 4 local total: 51881.40
+Consumer 6 local total: 47933.46
+Consumer 5 local total: 49917.55
+Consumer 7 local total: 46399.87
+
+=== Global Statistics ===
+Aggregate total: 489257.47
+Month totals:
+  Month 01 : 38056.53
+  Month 02 : 33396.63
+  Month 03 : 50907.96
+  Month 04 : 30887.30
+  Month 05 : 51933.19
+  Month 06 : 40633.73
+  Month 07 : 44147.25
+  Month 08 : 40383.63
+  Month 09 : 40419.22
+  Month 10 : 42930.77
+  Month 11 : 30082.60
+  Month 12 : 45478.62
+Total simulation time: 11.114 seconds
+
+p = 5, c = 2
+
+Consumer 0 local total: 254644.05
+Consumer 1 local total: 247098.69
+
+=== Global Statistics ===
+Aggregate total: 501742.75
+Month totals:
+  Month 01 : 37477.98
+  Month 02 : 40428.56
+  Month 03 : 50777.03
+  Month 04 : 44173.78
+  Month 05 : 43667.69
+  Month 06 : 35585.16
+  Month 07 : 44968.79
+  Month 08 : 48548.25
+  Month 09 : 45863.39
+  Month 10 : 33099.63
+  Month 11 : 42570.34
+  Month 12 : 34582.07
+Total simulation time: 4.540 seconds
+
+p = 5, c = 5
+
+Consumer 2 local total: 92656.90
+Consumer 3 local total: 99565.30
+Consumer 1 local total: 95658.91
+Consumer 0 local total: 102912.22
+Consumer 4 local total: 94410.38
+
+=== Global Statistics ===
+Aggregate total: 485203.72
+Month totals:
+  Month 01 : 44893.01
+  Month 02 : 39053.92
+  Month 03 : 41576.04
+  Month 04 : 43655.50
+  Month 05 : 31078.30
+  Month 06 : 33726.43
+  Month 07 : 43914.66
+  Month 08 : 43343.44
+  Month 09 : 44341.18
+  Month 10 : 43608.30
+  Month 11 : 35189.25
+  Month 12 : 40823.69
+Total simulation time: 4.640 seconds
+
+p = 5, c = 10
+
+Consumer 8 local total: 51375.12
+Consumer 9 local total: 50746.72
+Consumer 7 local total: 48154.08
+Consumer 0 local total: 54521.61
+Consumer 1 local total: 50949.54
+Consumer 2 local total: 53610.56
+Consumer 4 local total: 51714.53
+Consumer 5 local total: 52806.00
+Consumer 6 local total: 51384.91
+Consumer 3 local total: 53227.43
+
+=== Global Statistics ===
+Aggregate total: 518490.50
+Month totals:
+  Month 01 : 35340.07
+  Month 02 : 41333.16
+  Month 03 : 47150.61
+  Month 04 : 37501.64
+  Month 05 : 47347.16
+  Month 06 : 38045.14
+  Month 07 : 47329.70
+  Month 08 : 51544.52
+  Month 09 : 45107.42
+  Month 10 : 40457.14
+  Month 11 : 42269.27
+  Month 12 : 45064.69
+Total simulation time: 4.549 seconds
+
+p = 10, c = 2
+
+Consumer 0 local total: 252932.36
+Consumer 1 local total: 251957.84
+
+=== Global Statistics ===
+Aggregate total: 504890.19
+Month totals:
+  Month 01 : 48127.73
+  Month 02 : 44630.84
+  Month 03 : 39325.73
+  Month 04 : 43032.50
+  Month 05 : 42197.95
+  Month 06 : 41729.98
+  Month 07 : 39483.37
+  Month 08 : 39609.19
+  Month 09 : 43388.23
+  Month 10 : 44620.16
+  Month 11 : 36244.72
+  Month 12 : 42499.49
+Total simulation time: 2.360 seconds
+
+p = 10, c = 5
+
+Consumer 3 local total: 94047.22
+Consumer 2 local total: 98321.72
+Consumer 4 local total: 95783.12
+Consumer 1 local total: 101565.90
+Consumer 0 local total: 100260.14
+
+=== Global Statistics ===
+Aggregate total: 489978.09
+Month totals:
+  Month 01 : 42644.77
+  Month 02 : 32685.29
+  Month 03 : 36140.95
+  Month 04 : 33319.20
+  Month 05 : 44232.58
+  Month 06 : 44628.77
+  Month 07 : 42053.93
+  Month 08 : 51264.97
+  Month 09 : 44416.24
+  Month 10 : 36983.45
+  Month 11 : 39325.78
+  Month 12 : 42282.16
+Total simulation time: 2.325 seconds
+
+p = 10, c = 10
+
+Consumer 8 local total: 48325.34
+Consumer 3 local total: 52633.21
+Consumer 1 local total: 46925.72
+Consumer 0 local total: 56479.48
+Consumer 9 local total: 40067.24
+Consumer 7 local total: 46016.74
+Consumer 5 local total: 50295.81
+Consumer 2 local total: 46922.28
+Consumer 4 local total: 48751.83
+Consumer 6 local total: 51016.49
+
+=== Global Statistics ===
+Aggregate total: 487434.19
+Month totals:
+  Month 01 : 41415.95
+  Month 02 : 45379.87
+  Month 03 : 33310.91
+  Month 04 : 35564.04
+  Month 05 : 46694.52
+  Month 06 : 39953.75
+  Month 07 : 44020.84
+  Month 08 : 43915.14
+  Month 09 : 33061.38
+  Month 10 : 44583.98
+  Month 11 : 43446.86
+  Month 12 : 36086.95
+Total simulation time: 2.281 seconds

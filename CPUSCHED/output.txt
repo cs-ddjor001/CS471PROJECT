@@ -1,0 +1,17 @@
+FIFO Scheduling Statistics:
+Number of processes: 513
+Total elapsed time: 15182
+Throughput: 21.23
+CPU Utilization: 71.74%
+Average waiting time: 17.65
+Average turnaround time: 38.88
+Average response time: 17.65
+
+SJF Scheduling Statistics:
+Number of processes: 513
+Total elapsed time: 15182
+Throughput: 21.23
+CPU Utilization: 71.74%
+Average waiting time: 14.08
+Average turnaround time: 35.32
+Average response time: 14.08
